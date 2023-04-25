@@ -1,0 +1,1 @@
+O arquivo 3CWp9sI1, fiz um histogram dele depois plotei, e vi que o caractere mais abundante era o 115, então utilizei a cifra de césar com a chave 115 e consegui desencriptar o arquivo, que abre um txt.

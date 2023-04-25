@@ -1,0 +1,1 @@
+O arquivo SgTAPSra, fiz um histogram dele depois plotei, e vi que o caractere mais abundante era o 97, então utilizei a cifra de césar com a chave 97 e consegui desencriptar o arquivo, que abre o ls. Porém para abri-lo precisei dar permissão ao arquivo desencriptado.
